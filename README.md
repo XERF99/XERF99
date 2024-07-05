@@ -17,16 +17,13 @@ Outside of my professional life, I enjoy traveling and learning from different c
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
      <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg" alt="cypress" width="40" height="40"/> 
+    <img src="[https://www.vectorlogo.zone/logos/cypressio/cypressio-icon.svg](https://www.cypress.io/_astro/navbar-brand.D87396b0.svg)" alt="cypress" width="40" height="40"/> 
   </a> 
   <a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/serenity-bdd/serenity-core/main/docs/img/serenity-logo.png" alt="serenity" width="40" height="40"/> 
   </a> 
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/cucumber/docs.cucumber.io/main/images/icons/cucumber/cucumber.png" alt="cucumber" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
   </a> 
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
