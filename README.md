@@ -17,7 +17,7 @@ Outside of my professional life, I enjoy traveling and learning from different c
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
      <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://iconape.com/wp-content/files/gm/82643/svg/cypress-logo-icon-png-svg.png" alt="cypress" width="40" height="40"/> 
+    <img src="[https://iconape.com/wp-content/files/gm/82643/svg/cypress-logo-icon-png-svg.png](https://static-00.iconduck.com/assets.00/cypress-icon-256x255-r6l3lr29.png)" alt="cypress" width="40" height="40"/> 
   </a> 
   <a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/serenity-bdd/serenity-core/main/docs/img/serenity-logo.png" alt="serenity" width="40" height="40"/> 
