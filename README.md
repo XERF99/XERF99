@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco Rodríguez</h1>
 <h3 align="center">A passionate software developer from Ecuador</h3>
 
-<p align="justify"> I am a Software Engineer graduated from the National Polytechnic School (EPN), passionate about expanding my horizons and learning new things. My areas of interest include web development, software quality, and artificial intelligence. I specialize in conducting end-to-end (E2E) testing using Cypress and ensuring software quality through the implementation of Serenity for automated testing.
+<p align="justify"> I am a Software Engineer who graduated from the National Polytechnic School (EPN), and I am passionate about expanding my horizons and learning new things. My areas of interest include web development, software quality, and artificial intelligence. I specialize in conducting end-to-end (E2E) testing using Cypress and ensuring software quality through implementing Serenity for automated testing.
 
 Additionally, I have experience in API testing with Postman, ensuring that web services function optimally and securely. I also perform stress and load testing using JMeter, guaranteeing that applications can handle large volumes of users and data without degrading performance.
 
