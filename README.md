@@ -20,10 +20,10 @@ Outside of my professional life, I enjoy traveling and learning from different c
     <img src="https://static-00.iconduck.com/assets.00/cypress-icon-256x255-r6l3lr29.png" alt="cypress" width="40" height="40"/> 
   </a> 
   <a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/serenity-bdd/serenity-core/main/docs/img/serenity-logo.png" alt="serenity" width="40" height="40"/> 
+    <img src="https://serenity-bdd.info/wp-content/uploads/2021/07/serenity-bdd.png" alt="serenity" width="40" height="40"/> 
   </a> 
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/cucumber/docs.cucumber.io/main/images/icons/cucumber/cucumber.png" alt="cucumber" width="40" height="40"/> 
+    <img src="https://automationpanda.com/wp-content/uploads/2017/10/cucumber.png?w=1200" alt="cucumber" width="40" height="40"/> 
   </a> 
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
