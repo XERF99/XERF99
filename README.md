@@ -7,7 +7,7 @@ Additionally, I have experience in API testing with Postman, ensuring that web s
 
 Outside of my professional life, I enjoy traveling and learning from different cultures and perspectives, which helps me grow both personally and professionally.</p>
 
-🌱 I’m currently learning **JavaScript, React, Protege, Serenity BDD, Cypress, Postman, JMeter**
+🌱 I’m currently learning **JavaScript, React, Protege, Serenity BDD, Cypress, Postman, JMeter, RobotFramework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
